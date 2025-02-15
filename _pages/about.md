@@ -22,9 +22,11 @@ My Interests
 2. Not an advocator of pure reinforcement learning methods on robotics. But I advocate the integration of classical and modern techniques to get the best solution. 
 3. Always ready to help the team and debug issues in any field.
 
-Future
-------
-I would love to be a part of a startup working on real-world applications using cutting-edge research in various fields towards the development and advancement of Robotics. 
+[//]: # (Future)
+
+[//]: # (------)
+
+[//]: # (I would love to be a part of a startup working on real-world applications using cutting-edge research in various fields towards the development and advancement of Robotics. )
 
 For more info
 ------
