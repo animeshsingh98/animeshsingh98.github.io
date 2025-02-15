@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "AS"
+  name             : "Animesh Singh"
   pronouns         : "he/his"
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "University of Illinois Urbana-Champaign"
+  location         : "Urbana, Illinois, USA"
+  employer         : "UIUC, Illinois, USA"
   uri              : # URL
   email            : "animeshsingh98@gmail.com"
 
